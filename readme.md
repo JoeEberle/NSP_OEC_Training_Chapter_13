@@ -137,8 +137,59 @@ This assessment focuses on ensuring adequate breathing and quickly identifying r
 
 ## 13.7.  List the signs and symptoms of acute respiratory distress.
 
+Here are the common signs and symptoms of **acute respiratory distress**:
+
+1. **Severe shortness of breath** or difficulty breathing (dyspnea).
+2. **Rapid breathing** (tachypnea) or shallow breaths.
+3. **Labored breathing** with use of accessory muscles (neck, chest, or abdomen).
+4. **Wheezing** or other abnormal breath sounds (e.g., crackles, stridor).
+5. **Cyanosis** (bluish tint to the lips, skin, or fingernails) due to low oxygen levels.
+6. **Chest tightness** or pain.
+7. **Panic, anxiety, or restlessness** due to the inability to breathe effectively.
+8. **Fatigue or weakness** from prolonged effort to breathe.
+9. **Nasal flaring** (common in children) or pursed-lip breathing.
+10. **Coughing** (may be dry or produce frothy or bloody sputum).
+11. **Altered mental status**, confusion, or dizziness due to low oxygen supply.
+12. **Inability to speak in full sentences** because of breathlessness.
+13. **Profuse sweating** (diaphoresis).
+
+These signs and symptoms indicate a medical emergency that requires immediate attention to restore proper oxygenation and breathing.
+
 
 ## 13.8.  Describe characteristics of abnormal breathing.
+
+
+Here are the key characteristics of **abnormal breathing**:
+
+1. **Increased or Decreased Respiratory Rate**:
+   - **Tachypnea**: Rapid breathing, typically more than 20 breaths per minute in adults.
+   - **Bradypnea**: Abnormally slow breathing, fewer than 12 breaths per minute in adults.
+
+2. **Shallow Breathing**: Breaths that are weak or insufficient to bring adequate oxygen into the lungs.
+
+3. **Labored Breathing**: Breathing that requires extra effort, often noticeable by the use of accessory muscles (e.g., neck, shoulders, abdomen).
+
+4. **Irregular Breathing Patterns**:
+   - **Cheyne-Stokes**: Cycles of increasing and decreasing depth of breathing with periods of apnea (no breathing).
+   - **Kussmaul’s Breathing**: Deep, rapid breathing typically associated with metabolic acidosis.
+
+5. **Noisy Breathing**:
+   - **Wheezing**: A high-pitched whistling sound, often due to narrowed airways (e.g., asthma, COPD).
+   - **Stridor**: A harsh, crowing sound, often indicating upper airway obstruction.
+   - **Crackles (Rales)**: A crackling or popping sound, often heard in lung conditions like pneumonia or heart failure.
+   - **Gurgling**: Caused by fluid or mucus in the airways.
+
+6. **Cyanosis**: A bluish tint to the skin, lips, or fingernails, indicating poor oxygenation.
+
+7. **Inability to Speak Full Sentences**: The person may need to pause frequently to catch their breath while talking.
+
+8. **Nasal Flaring**: Widening of the nostrils during breathing, commonly seen in respiratory distress, especially in children.
+
+9. **Chest Retractions**: Sinking of the skin between the ribs or at the neck during inhalation, indicating difficulty breathing.
+
+10. **Pursed-Lip Breathing**: Seen in conditions like COPD, where patients exhale slowly through pursed lips to keep airways open.
+
+These characteristics signal that the body's ability to breathe and oxygenate properly is compromised, often requiring immediate medical intervention.
 
 
 ## 13.9.  Demonstrate how to assess lung sounds.
