@@ -233,11 +233,8 @@ To get started with the **Nsp Oec Training Chapter 13** solution repository, fol
  ![additional_image](NSP_OEC_Training_Chapter_13.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
