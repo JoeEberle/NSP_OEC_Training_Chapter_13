@@ -91,13 +91,13 @@ These symptoms indicate a respiratory emergency and require immediate medical at
 To assess a patient who is having difficulty breathing, follow these key steps:
 
 ### **1. Scene Safety and Initial Assessment:**
-- **Ensure scene safety**: Check that itâ€™s safe for you and the patient.
+- **Ensure scene safety**: Check that it’s safe for you and the patient.
 - **Introduce yourself**: Explain that you are trained to help and ask for consent to provide care.
-- **Assess the patientâ€™s responsiveness**: Determine if the patient is alert and oriented or in distress.
+- **Assess the patient’s responsiveness**: Determine if the patient is alert and oriented or in distress.
 
 ### **2. Perform a Primary Assessment (ABC):**
-- **A â€“ Airway**: Ensure the airway is open and clear. If not, clear any obstructions.
-- **B â€“ Breathing**: Check if the patient is breathing adequately:
+- **A – Airway**: Ensure the airway is open and clear. If not, clear any obstructions.
+- **B – Breathing**: Check if the patient is breathing adequately:
    - Observe **chest rise**: Is the chest rising normally with each breath?
    - Count the **respiratory rate**: Count the number of breaths in 30 seconds and multiply by two. Normal rates: 
      - Adults: 12-20 breaths per minute
@@ -106,16 +106,16 @@ To assess a patient who is having difficulty breathing, follow these key steps:
    - Assess **depth and effort**: Is the breathing shallow or labored? Are they using accessory muscles?
    - Listen for **abnormal sounds**: Check for wheezing, stridor, or crackles.
    - **Feel for air movement**: Place your cheek near their mouth to feel if air is moving in and out.
-- **C â€“ Circulation**: Check for cyanosis (bluish skin) around the lips, fingers, or toes, which indicates poor oxygenation.
+- **C – Circulation**: Check for cyanosis (bluish skin) around the lips, fingers, or toes, which indicates poor oxygenation.
 
 ### **3. Ask Questions (SAMPLE History):**
 To better understand the situation, ask the patient about:
-- **S**: Signs and symptoms â€“ "How are you feeling? What are your symptoms?"
-- **A**: Allergies â€“ "Do you have any known allergies?"
-- **M**: Medications â€“ "Are you taking any medications for breathing issues?"
-- **P**: Past medical history â€“ "Have you had any breathing problems in the past?"
-- **L**: Last oral intake â€“ "When did you last eat or drink?"
-- **E**: Events leading up to the issue â€“ "What were you doing before this started?"
+- **S**: Signs and symptoms – "How are you feeling? What are your symptoms?"
+- **A**: Allergies – "Do you have any known allergies?"
+- **M**: Medications – "Are you taking any medications for breathing issues?"
+- **P**: Past medical history – "Have you had any breathing problems in the past?"
+- **L**: Last oral intake – "When did you last eat or drink?"
+- **E**: Events leading up to the issue – "What were you doing before this started?"
 
 ### **4. Perform a Physical Exam:**
 - **Observe chest movement**: Watch for symmetry. If one side of the chest moves differently, this could indicate a collapsed lung or injury.
@@ -125,10 +125,10 @@ To better understand the situation, ask the patient about:
 - **Look for nasal flaring or pursed-lip breathing**, which indicates difficulty breathing.
 
 ### **5. Monitor Oxygen Saturation (if equipment is available):**
-- Use a pulse oximeter to check the patientâ€™s oxygen saturation level. Normal levels should be between 95-100%. Levels below 90% indicate a serious issue.
+- Use a pulse oximeter to check the patient’s oxygen saturation level. Normal levels should be between 95-100%. Levels below 90% indicate a serious issue.
 
 ### **6. Provide Appropriate Care:**
-- **Position the patient**: Help the patient sit up in a position that makes breathing easier, such as in a Fowlerâ€™s or semi-Fowlerâ€™s position.
+- **Position the patient**: Help the patient sit up in a position that makes breathing easier, such as in a Fowler’s or semi-Fowler’s position.
 - **Administer oxygen** (if trained and equipment is available): Use a non-rebreather mask or nasal cannula if the patient has low oxygen levels.
 - **Call for advanced medical help** if the condition is severe or worsening.
 
@@ -173,7 +173,7 @@ Here are the key characteristics of **abnormal breathing**:
 
 4. **Irregular Breathing Patterns**:
    - **Cheyne-Stokes**: Cycles of increasing and decreasing depth of breathing with periods of apnea (no breathing).
-   - **Kussmaulâ€™s Breathing**: Deep, rapid breathing typically associated with metabolic acidosis.
+   - **Kussmaul’s Breathing**: Deep, rapid breathing typically associated with metabolic acidosis.
 
 5. **Noisy Breathing**:
    - **Wheezing**: A high-pitched whistling sound, often due to narrowed airways (e.g., asthma, COPD).
@@ -211,24 +211,4 @@ These characteristics signal that the body's ability to breathe and oxygenate pr
     
 ![Solution](code.png)
 
-    
-## Getting Started
-
-The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
-
-To get started with the **Nsp Oec Training Chapter 13** solution repository, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed at the top of the notebook.
-3. Explore the example code provided in the repository and experiment.
-4. Run the notebook and make it your own - **EASY !**
-    
-## List of Figures
- ![additional_image](NSP_OEC_Training_Chapter_13.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
     
